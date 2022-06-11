@@ -1,15 +1,37 @@
+#daycounter {
+    font-family: 'Syne Mono', monospace;
+    font-size: 200%;
+    text-align: center;
+    border:rgb(108, 108, 255); border-width:10px; border-style:solid;
+    margin: 20px;
+    padding: 60px;
+    color: aliceblue;
+}
+
 body{
     font-family: 'Cairo',sans-serif;
     background-color: #bcbffe;
+    font-size: 120%;
 }
-p {
-    color: azure;
 
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    padding: 10px;
-
+#miraitext{
     text-align: center;
+    font-family: 'Patrick Hand', cursive;
+    color: #353535;
+    margin: 2%;
+}
+
+#card {
+    display: block;
+    margin-left: 40%;
+    margin-right: 50%;
+    width: 40%;
+}
+
+#myletter {
+    color: rgb(80, 80, 248);
+    text-align: center;
+    border:rgb(24, 24, 24); border-width:5px; border-style:solid;
+    padding: 2%;
+    margin: 10%;
 }
