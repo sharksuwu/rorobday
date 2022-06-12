@@ -21,17 +21,6 @@ body{
     margin: 2%;
 }
 
-#card {
-    display: block;
-    margin-left: 40%;
-    margin-right: 50%;
-    width: 40%;
-}
-
-#myletter {
-    color: rgb(80, 80, 248);
+#link {
     text-align: center;
-    border:rgb(24, 24, 24); border-width:5px; border-style:solid;
-    padding: 2%;
-    margin: 10%;
 }
